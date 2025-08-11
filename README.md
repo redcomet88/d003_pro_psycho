@@ -126,23 +126,23 @@
 ![在这里插入图片描述](3-心理助手2.png)
 ### 心理评测管理模块
 测评选项管理
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/09580c83988547cbbaa8589f9a5eb959.png)
+![在这里插入图片描述](4-选项管理.png)
 组合规则引擎
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/cdfc5cee2eba46d9a6ace26352430f2a.png)
+![在这里插入图片描述](4-组合管理.png)
 特殊选项管理
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/906ee03231b94335997b679b9d184ffb.png)
+![在这里插入图片描述](4-特定选项.png)
 
 评测元素管理
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/f902f4858c7247fa9ca1eb0ed9a3c2eb.png)
+![在这里插入图片描述](4-元素管理.png)
 ###  用户与权限管理管理
 细粒度角色权限控制
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/833b8685daa143b4b08a00a80d2d840e.png)
+![在这里插入图片描述](4-权限管理-.png)
 完整的用户生命周期管理：支持用户创建、查询、更新和逻辑删除（非物理删除）
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/e7dcd0b047cb44e2ac5bdca50e6a3693.png)
+![在这里插入图片描述](4-用户管理.png)
 日志管理
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/6205539484e741d187b41fc5ca456c69.png)
+![在这里插入图片描述](4-日志管理.png)
 ### 个人信息
 修改个人信息、头像等
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/57c70902cfe04039b44671c8fb9c1fea.png)
+![在这里插入图片描述](5-个人信息修改.png)
 修改密码
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/67309ac3bc814383bf03276519514fce.png)
+![在这里插入图片描述](5-修改密码.png)
